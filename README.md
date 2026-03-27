@@ -75,8 +75,9 @@ EDA_and_Feature_Engineering_Project_on_Prices_of_Flight_Dataset/
 
 ## 🖼️ Visualizations
 
-![Boxplot](../Boxplot%20of%20days_left%20Column.png)
-![Heatmap](../Correlation%20Matrix%20Heatmap.png)
+![Boxplot](https://raw.githubusercontent.com/AbhishekDhawan07/EDA_and_Feature_Engineering_Project_on_Prices_of_Flight_Dataset/main/Boxplot%20of%20days_left%20Column.png)
+
+![Heatmap](https://raw.githubusercontent.com/AbhishekDhawan07/EDA_and_Feature_Engineering_Project_on_Prices_of_Flight_Dataset/main/Correlation%20Matrix%20Heatmap.png)
 ---
 
 ## 🚀 How to Run
