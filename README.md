@@ -24,15 +24,15 @@ This project explores flight pricing data to identify trends, patterns, and key 
 
 ## 📂 Project Structure
 ```
-EDA_and_Feature_Engineering_Project_on_Prices_of_Flight_Dataset/
+EDA_and_Feature_Engineering_Project_on_Flight_Prices_Dataset/
 │
-├── EDA and Feature Engineering Prioject on Flight Prices Dataset/
-│   ├── EDA and Feature Engineering on Flight Dataset.ipynb
-│   ├── flights_data.csv
-│   └── Readme.md
+├── 📄 Readme.md                              ← You are here!
+├── 📄 Boxplot of days_left Column.png        ← Visual output
+├── 📄 Correlation Matrix Heatmap.png         ← Visual output
 │
-├── Boxplot of days_left Column.png
-└── Correlation Matrix Heatmap.png
+└── 📂 EDA and Feature Engineering on Flight Prices Dataset/
+    ├── 📓 EDA and Feature Engineering on Flight Dataset.ipynb
+    └── 📊 flights_data.csv
 ```
 
 ---
